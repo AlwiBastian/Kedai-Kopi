@@ -1,5 +1,7 @@
 # Kedai-Kopi
 
+Deskripsi Program Kedai kopi
+
 Ananda Coffee adalah sebuah program sederhana yang mengimplementasikan konsep Object-Oriented Programming (OOP) untuk mengelola pemesanan menu minuman kopi.
 
 Program ini terdiri dari dua kelas, yaitu:
@@ -15,3 +17,9 @@ Program ini terdiri dari dua kelas, yaitu:
 -__init__(): Metode inisialisasi yang digunakan untuk menginisialisasi daftar menu minuman kopi saat objek AnandaCoffee dibuat.
 
 Program ini juga dilengkapi dengan loop while yang memungkinkan pengguna untuk terus melakukan pemesanan selama pengguna ingin melanjutkan. Program akan berhenti jika pengguna memilih untuk tidak melanjutkan.
+
+Cara Menjalankan Program :
+1. Jalankan file tersebut menggunakan interpreter Python.
+2. Ikuti petunjuk yang muncul di layar untuk memilih menu minuman kopi dan jumlah pemesanan.
+3. Program akan menghitung harga, diskon, dan PPN, serta menampilkan detail pesanan dan total harga.
+4. Setelah selesai, program akan menanyakan apakah Anda ingin melanjutkan pemesanan atau tidak. Ketik y untuk melanjutkan atau n untuk keluar dari loop dan mengakhiri program.
