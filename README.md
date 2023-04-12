@@ -1,6 +1,6 @@
 # Kedai-Kopi
 
-Deskripsi Program Kedai kopi
+Deskripsi Program Kedai kopi :
 
 Ananda Coffee adalah sebuah program sederhana yang mengimplementasikan konsep Object-Oriented Programming (OOP) untuk mengelola pemesanan menu minuman kopi.
 
